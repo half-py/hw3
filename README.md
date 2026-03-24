@@ -49,24 +49,24 @@ P(k+1) = P(k) * λ / (k+1)
 
 ---
 
+
+
 ## 專案結構
 
+```
 hw3/
-│
-├── main.py
-│
-├── modules/
-│ ├── gui.py
-│ ├── sampler.py
-│ ├── stats.py
-│ └── plot_utils.py
-│
-├── docs/
-│ └── gui.png
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
+├─ main.py
+├─ modules/
+│  ├─ gui.py
+│  ├─ sampler.py
+│  ├─ stats.py
+│  ├─ plot_utils.py
+├─ docs/
+│  └─ gui.png
+├─ requirements.txt
+├─ .gitignore
+└─ README.md
+```
 
 
 ---
