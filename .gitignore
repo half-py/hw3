@@ -1,0 +1,29 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+.venv/
+env/
+venv/
+
+# vscode
+.vscode/
+
+# mac
+.DS_Store
+
+# windows
+Thumbs.db
+
+# matplotlib cache
+.matplotlib/
+
+# logs
+*.log
+
+# build
+dist/
+build/
