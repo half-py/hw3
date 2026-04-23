@@ -46,16 +46,11 @@ $$
 
 ```md
 ![主畫面](images/gui_main.png)
-![模擬結果](images/result.png)
 ```
 
 ### 主畫面
 
 ![主畫面](images/gui_main.png)
-
-### 模擬結果
-
-![模擬結果](images/result.png)
 
 ---
 
